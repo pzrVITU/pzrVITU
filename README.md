@@ -1,5 +1,5 @@
 ### Ola! Sou Victor Henrique 👋👋
-### Atualmente estudando a linguagem JAVA ![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/122242125/211358902-be4a611b-8b7e-431c-9329-da8068656205.png)
+### Atualmente estudando a linguagem Python ![java_original_wordmark_logo_icon_146459](https://user-images.githubusercontent.com/122242125/211358902-be4a611b-8b7e-431c-9329-da8068656205.png)
 ### Cursando Engenharia de software 🎓 🎓 
 
 
